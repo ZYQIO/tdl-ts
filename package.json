@@ -1,0 +1,23 @@
+{
+  "name": "tdl-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYQIO/tdl-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZYQIO/tdl-ts/issues"
+  },
+  "homepage": "https://github.com/ZYQIO/tdl-ts#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
